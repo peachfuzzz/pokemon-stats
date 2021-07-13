@@ -1,5 +1,5 @@
-# pokemon-stats
-easy access pokemon stats files
+# practice-data-sets
+easy access practice stats files
 
 This is my easy-access datasets projects for a Python class. I put it here mainly so students can easily access it through Google Colab, since sometimes the datasets are all over the place.
 
